@@ -1,0 +1,33 @@
+main.cont > form{background-color: #275745;;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    color: #F8F6E5;;
+    width: 97vw;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow:1px 1px 4px #00000094; 
+    padding: 8px 1px 20px 1px;}
+
+main.cont > form > fieldset > label{
+margin: 1px;
+padding: 1px;}
+
+main.cont > form > fieldset > fieldset{width: 130px;
+                          margin: 20px 1px 25px 1vw;}
+
+main.cont > form > fieldset > fieldset > legend{
+font-family: 'Cabin', sans-serif;
+font-size: 24px;}
+
+main.cont > form > fieldset >legend{margin: auto;
+                       font-size: 30px;
+                       font-family: 'Cabin', sans-serif;}
+
+main.cont > form > fieldset > p{margin: 8px 12px 1px 1px;}
+
+main.cont > form > fieldset > p > input{height: 20px;
+                           margin: 8px 4vw 25px 2px;}
+
+main.cont > form > fieldset > p > input.botao{height: 30px;
+                                 width: 80px;}
