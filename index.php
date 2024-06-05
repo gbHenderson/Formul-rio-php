@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
         $email = $_GET["email"] ?? "Não tem.";
         $estado = $_GET["estado"]??"RJ";
         $sexo = $_GET["sexo"]??"Masculino";
-        $nas = $_GET["subject"]??"2002-09-25";
+        $nas = $_GET["subject"]??"2000-12-02";
         $men = $_GET["message"]?? "Olá!";
     ?>
 
